@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Polyglot Software Engineer, Literature Lover. World Traveller, Inveterate Medievalist.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Languages Known: C++, Java, Javascript, Python, Ruby, C, CSS
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[brian@briansanders.net](mailto:brian@briansanders.net)
