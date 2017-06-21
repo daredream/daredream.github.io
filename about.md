@@ -10,6 +10,10 @@ Polyglot Software Engineer, Literature Lover. World Traveller, Inveterate Mediev
 
 Languages Known: C++, Java, Javascript, Python, Ruby, C, CSS
 
+### Resume
+
+(Bootstrap)["resume.html"]
+
 ### Contact me
 
 [brian@briansanders.net](mailto:brian@briansanders.net)
