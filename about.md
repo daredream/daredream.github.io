@@ -10,9 +10,7 @@ Polyglot Software Engineer, Literature Lover. World Traveller, Inveterate Mediev
 
 Languages Known: C++, Java, Javascript, Python, Ruby, C, CSS
 
-### Resume
-
-[Resume]("https://daredream.github.io/resume.html")
+See [here](resume.html)
 
 ### Contact me
 
