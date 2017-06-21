@@ -12,7 +12,7 @@ Languages Known: C++, Java, Javascript, Python, Ruby, C, CSS
 
 ### Resume
 
-(Bootstrap)["resume.html"]
+[Bootstrap]("resume.html")
 
 ### Contact me
 
