@@ -12,7 +12,7 @@ Languages Known: C++, Java, Javascript, Python, Ruby, C, CSS
 
 ### Resume
 
-[Bootstrap]("resume.html")
+[Resume]("https://daredream.github.io/resume.html")
 
 ### Contact me
 
