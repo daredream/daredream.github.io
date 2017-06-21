@@ -10,6 +10,8 @@ Polyglot Software Engineer, Literature Lover. World Traveller, Inveterate Mediev
 
 Languages Known: C++, Java, Javascript, Python, Ruby, C, CSS
 
+### Resume
+
 See [here](resume.html)
 
 ### Contact me
