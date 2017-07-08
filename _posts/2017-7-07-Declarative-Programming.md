@@ -50,4 +50,32 @@ module.exports = {
   ]
 }
 ```
+> Up until this point we haven’t really emphasized the importance of this new
+> "virtual DOM" paradigm we’re jumping into. The reason the React team went with
+> this approach is because, since the virtual DOM is a JavaScript representation
+> of the actual DOM, React can keep track of the difference between the current
+> virtual DOM (computed after some data changes), with the previous virtual DOM
+> (computed befores some data changes). React then **isolates the changes between**
+> **the old and new virtual DOM and then only updates the real DOM with the
+> necessary changes.** (More advanced info here) In more layman’s terms, because
+> manipulating the actual DOM can be complex, React is able to minimize
+> manipulations to the actual DOM by keeping track of a virtual DOM and only
+> updating the real DOM when necessary and with only the necessary changes.
+> Typically UI’s have lots of state which makes managing state difficult. By
+> re-rendering the virtual DOM every time any state change occurs, React makes it
+>easier to think about what state your application is in.
 
+**A component is a function or a Class which optionally accepts input and returns a React element.**
+
+```javascript
+function Button ({ onLogin }) {
+  return React.createElement(
+    'div',
+    {id: 'login-btn', onClick: onLogin},
+    'Login'
+  )
+}
+```
+[React Components, Elements, and Instances](https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html)
+
+[^1]: (React Training by Tyler McGinnis)[https://learn.tylermcginnis.com/courses/50507/lectures/760301#/finished]
