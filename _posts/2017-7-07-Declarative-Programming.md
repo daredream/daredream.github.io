@@ -1,5 +1,7 @@
 ## Some notes and quotes
 
+### Declarative programming
+
 Considering some of the more functional programming concepts/techniques,
 starting with *.map*, *.reduce*, *.filter*.
 
@@ -21,3 +23,31 @@ starting with *.map*, *.reduce*, *.filter*.
 > In computer science, declarative programming is a programming paradigm 
 > that expresses the logic of a computation without describing its 
 > control flow.
+
+### Webpack
+
+> So where webpack really shines is you're able to tell it every transformation
+> your code needs to make, and it will do them and output a bundle file for you
+> full of those changes (and some other helpful things as well like minification
+> if you desire).
+
+```javascript
+module.exports = {
+  entry: './app/index.js',
+  module: {
+    rules: [
+      { test: /\.coffee$/, use: "coffee-loader" }
+    ]
+  },
+  output: {
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'index_bundle.js'
+  },
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: 'app/index.html'
+    })
+  ]
+}
+```
+
