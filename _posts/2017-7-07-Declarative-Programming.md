@@ -1,4 +1,3 @@
-# Declarative Programming
 ## Some notes and quotes
 
 Considering some of the more functional programming concepts/techniques,
