@@ -1,4 +1,4 @@
-# React Redux
+# Exploring some ideas using React Redux
 
 Middleware design which groups asychronous behavior, thus obviating duplicate code and simplifying testing.  Extracts redundant logic using the [Chain of Responsibility Pattern](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern).  
 
