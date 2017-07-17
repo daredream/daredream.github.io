@@ -8,3 +8,26 @@ Some tutorial videos:
 
 [Hot Reloading With Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
+```javascript
+{
+  todos: [{
+    text: 'Eat food',
+    completed: true
+  }, {
+    text: 'Exercise',
+    completed: false
+  }],
+  visibilityFilter: 'SHOW_COMPLETED'
+}
+```
+
+Reducers allow us to manage the complete state of the app for calling the reducer for each corresponding state key:
+
+```javascript
+function todoApp(state = {}, action) {
+  return {
+    todos: todos(state.todos, action),
+    visibilityFilter: visibilityFilter(state.visibilityFilter, action)
+  }
+}
+```
