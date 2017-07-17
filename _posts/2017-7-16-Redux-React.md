@@ -8,6 +8,8 @@ Some tutorial videos:
 
 [Hot Reloading With Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
+[Time Travel in React Redux apps using the Redux DevTools](https://onsen.io/blog/react-redux-devtools-with-time-travel/)
+
 ```javascript
 {
   todos: [{
