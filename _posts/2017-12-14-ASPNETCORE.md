@@ -13,10 +13,7 @@ It claims to provide the following:
 * Cross-platform
 * FOSS
 
-I was successful in getting a basic app up and running on
-Fedora 27.
-
-It supports the following features:
+ASP.NET Core supports the following features:
 
 * MVC pattern
 * Razor pages (page-based programming model)
@@ -26,5 +23,13 @@ It supports the following features:
 * Model binding
 * Model validation
 
+I was successful in getting a basic app up and running on
+Fedora 27.
+
 Seamlessly integrates with Angular, React, and Bootstrap (have 
 not tested this as yet, but soon).
+
+Steps
+=====
+
+Run `dotnet new razor -o project_name` from the command line.
