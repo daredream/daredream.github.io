@@ -8,7 +8,7 @@ abstractions, has recently become appealing/interesting to me.
 
 I am also exploring reading spreadsheets using Excel as a standard data interchange
 format using the Rust language.  So far, I like the functional language idioms. 
-Other features of note from [Rust Language][https://www.rust-lang.org/en-US/]]:
+Other features of note from [[Rust Language][https://www.rust-lang.org/en-US/]]:
 
 * zero-cost abstractions
 * move semantics
