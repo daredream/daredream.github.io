@@ -23,7 +23,7 @@ Other features of note from [Rust Language](https://www.rust-lang.org/en-US/):
 Maybe I am just getting "bored"/jaded with virtual machine byte-code interpreted languages,
 as well as the neverending assault of the yet-another-scripting language/framework *du jour*.
 I am guessing that automating the generation of Javascript, *et. al.* will become more 
-popular-- this more focused approach will prove to become more cost effective.
+popular-- this more focused approach will prove to be more cost effective.
 
 > I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced
 > one kick 10,000 times."
