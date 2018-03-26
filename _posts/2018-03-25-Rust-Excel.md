@@ -8,7 +8,7 @@ abstractions, has recently become appealing/interesting to me.
 
 I am also exploring reading spreadsheets using Excel as a standard data interchange
 format using the Rust language.  So far, I like the functional language idioms. 
-Other features of note from [[Rust Language][https://www.rust-lang.org/en-US/]]:
+Other features of note from [Rust Language](https://www.rust-lang.org/en-US/):
 
 * zero-cost abstractions
 * move semantics
@@ -22,6 +22,14 @@ Other features of note from [[Rust Language][https://www.rust-lang.org/en-US/]]:
 
 Maybe I am just getting "bored"/jaded with virtual machine byte-code interpreted languages,
 as well as the neverending assault of the yet-another-scripting language/framework du jour.
+I am assuming that automating the generation of Javascript, et. al. will become more 
+popular-- and more cost effective.
+
+> I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced
+> one kick 10,000 times."
+
+> -- Bruce Lee 
+
 
 ### Reader: Simple
 
