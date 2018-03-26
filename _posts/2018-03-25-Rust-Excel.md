@@ -21,13 +21,12 @@ Other features of note from [Rust Language](https://www.rust-lang.org/en-US/):
 * efficient C bindings
 
 Maybe I am just getting "bored"/jaded with virtual machine byte-code interpreted languages,
-as well as the neverending assault of the yet-another-scripting language/framework du jour.
+as well as the neverending assault of the yet-another-scripting language/framework *du jour*.
 I am assuming that automating the generation of Javascript, et. al. will become more 
 popular-- and more cost effective.
 
 > I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced
 > one kick 10,000 times."
-
 > -- Bruce Lee 
 
 
