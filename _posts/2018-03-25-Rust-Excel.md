@@ -20,7 +20,8 @@ Other features of note from [[Rust Language][https://www.rust-lang.org/en-US/]]:
 * minimal runtime
 * efficient C bindings
 
-Maybe I am just getting "bored"/jaded with virtual machine byte-code interpreted languages?
+Maybe I am just getting "bored"/jaded with virtual machine byte-code interpreted languages,
+as well as the neverending assault of the yet-another-scripting language/framework du jour.
 
 ### Reader: Simple
 
